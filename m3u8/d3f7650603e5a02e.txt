@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:9.813689,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/10/25a3d09cb1274972b8c7bd32cf02d915.jpg
+#EXTINF:0.076178,
+https://img-newrank.newrank.cn/main/upload/photo/2023/10/10/cfc845cc4ba34ebb8e0e8c548e8f9471.jpg
+#EXT-X-ENDLIST
